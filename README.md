@@ -45,3 +45,11 @@ python main.py
 * **Tracking em Tempo Real**: Monitoramento individual de cada carro, exibindo posição, quantidade de passos e a rota parcial percorrida.
 * **Recordes da Colônia**: Exibição em tempo real do menor tempo histórico atingido e da rota com menos passos encontrada até o momento.
 * **Relatório Técnico**: Ao clicar no botão de encerramento, o sistema processa o histórico de iterações e gera o arquivo `relatorio_final_aco.pdf` com estatísticas de evolução.
+
+## Colaboradores
+* Gabriel Mussatto Silva
+* Kethelen Victoria de Souza Parra
+* Erick Meneses de Sousa
+* Hugo Valuar Bailona
+* Leticia Espindola
+* Pedro Vieira
