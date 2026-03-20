@@ -1,0 +1,7 @@
+# Comando para instalar as dependências do projeto:
+# pip install pygame networkx matplotlib fpdf
+
+pygame
+networkx
+matplotlib
+fpdf
